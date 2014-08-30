@@ -1,6 +1,6 @@
 {
   "name": "rrd-matitanio",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "authors": [
     "Matias Gonzalez <mgon.uat@gmail.com>"
   ],
@@ -18,6 +18,6 @@
     "tests"
   ],
    "dependencies": {
-    "angular": "~1.0.6"
+    "angular": "~1.2.15"
   }
 }
