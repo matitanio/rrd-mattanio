@@ -2,6 +2,7 @@ angular.module('rrd-matitanio', []).
   directive('rbHelloWorld', function () {
     return {
     restrict: 'E',
-    template: '<div> Allianz hello world</div>'
+    
+    templateUrl: 'bower_components/rrd-matitanio/template.html'
   }
   });
