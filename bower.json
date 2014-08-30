@@ -1,0 +1,23 @@
+{
+  "name": "rrd-matitanio",
+  "version": "0.0.1",
+  "authors": [
+    "Matias Gonzalez <mgon.uat@gmail.com>"
+  ],
+  "description": "bla",
+  "main": "directive.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+   "dependencies": {
+    "angular": "~1.0.6"
+  }
+}
